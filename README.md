@@ -16,7 +16,7 @@ This Python script uses the Bito CLI to generate release notes based on the diff
 
 
 ## [Generate Commit Messages](https://github.com/gitbito/AI-Automation/tree/main/git/commit_msg)
-Generate commit messages given a repo path.
+Generate commit messages given a repository path.
 
 ## Prerequisites
 
